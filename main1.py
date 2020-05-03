@@ -6,6 +6,9 @@ noofis=0
 sum1=0
 
 #adding a diffrent comments
+
+#this is an edited version, but it is the same more or less
+
 A=[]
 for a in range(n):
     A.append([0])
