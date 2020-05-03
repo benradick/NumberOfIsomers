@@ -5,6 +5,7 @@ E=0
 noofis=0
 sum1=0
 
+#adding a diffrent comments
 A=[]
 for a in range(n):
     A.append([0])
